@@ -1,5 +1,5 @@
 # think-addons
-mzbcms插件模块
+cxbcms插件模块
 
 
 ## 特别感谢

@@ -1,16 +1,16 @@
 {
-    "name": "mzbcms/think-addons",
+    "name": "CxbCMS/think-addons",
     "description": "addons package for mzbcms",
-    "homepage": "https://github.com/mzbcms/think-addons",
+    "homepage": "https://github.com/CxbCMS/think-addons",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "mzbcms",
-            "email": "mzbcmshome@gmail.com"
+            "name": "CxbCMS",
+            "email": "cxbcms@163.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/mzbcms/think-addons/issues"
+        "issues": "https://github.com/cxbcms/think-addons/issues"
     },
     "require": {
         "php": ">=8.0.0"
